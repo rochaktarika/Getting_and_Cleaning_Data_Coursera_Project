@@ -13,5 +13,6 @@ Following are the steps performed as part of the project  -
 8.  Prepare a tidy data set based on the activity and subject fields while taking the mean of all the other fields
 
 Files available in the project - 
+
 1.  run_analysis.R - R script to clean and generate a tidy dataset
 2.  tidy.txt - This is the final outcome of the run_analysis.R
