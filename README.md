@@ -16,3 +16,4 @@ Files available in the project -
 
 1.  run_analysis.R - R script to clean and generate a tidy dataset
 2.  tidy.txt - This is the final outcome of the run_analysis.R
+3.  CodeBook.md - Documentation of all the variables used in the "run_analysis.R" script and all the identifiers/measurements of the tidy dataset 
