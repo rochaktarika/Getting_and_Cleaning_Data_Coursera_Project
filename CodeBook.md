@@ -1,6 +1,12 @@
 # Code Book
 
-This is the documentation on the cleaned tidy dataset.
+This is the documentation on the variables used in the script in this project and also for the cleaned tidy dataset.
+
+## Variables
+* `activity_labels` : All the activities from the downloaded dataset
+* `features` : All the features from the downloaded dataset
+* `features_mean_std` and `features_mean_std_lbl` : ID and name of the features which has mean or std in the names
+* 
 
 ## Identifiers
 
