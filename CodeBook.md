@@ -418,41 +418,354 @@ This is the documentation on the cleaned tidy dataset.
           	Max.:   0.250
 
 * `fBodyAccMeanX`
+
+          	Min.:  -0.995
+       		1st Qu.:  -0.979
+        	Median:  -0.769
+          	Mean:  -0.576
+       		3rd Qu.:  -0.217
+          	Max.:   0.537
+
 * `fBodyAccMeanY`
+
+          	Min.:  -0.989
+       		1st Qu.:  -0.954
+        	Median:  -0.595
+          	Mean:  -0.489
+       		3rd Qu.:  -0.063
+          	Max.:   0.524
+
 * `fBodyAccMeanZ`
+
+          	Min.:  -0.990
+       		1st Qu.:  -0.962
+        	Median:  -0.724
+          	Mean:  -0.630
+       		3rd Qu.:  -0.318
+          	Max.:   0.281
+
 * `fBodyAccStdX`
+
+          	Min.:  -0.997
+       		1st Qu.:  -0.982
+        	Median:  -0.747
+          	Mean:  -0.552
+       		3rd Qu.:  -0.197
+          	Max.:   0.658
+
 * `fBodyAccStdY`
+
+          	Min.:  -0.991
+       		1st Qu.:  -0.940
+        	Median:  -0.513
+          	Mean:  -0.481
+       		3rd Qu.:  -0.079
+          	Max.:   0.560
+
 * `fBodyAccStdZ`
+
+          	Min.:  -0.987
+       		1st Qu.:  -0.946
+        	Median:  -0.644
+          	Mean:  -0.582
+       		3rd Qu.:  -0.266
+          	Max.:   0.687
+
 * `fBodyAccMeanFreqX`
+
+          	Min.:  -0.636
+       		1st Qu.:  -0.392
+        	Median:  -0.257
+          	Mean:  -0.232
+       		3rd Qu.:  -0.061
+          	Max.:   0.159
+
 * `fBodyAccMeanFreqY`
+
+          	Min.:  -0.380
+       		1st Qu.:  -0.081
+       	 	Median:   0.008
+          	Mean:   0.012
+       		3rd Qu.:   0.086
+          	Max.:   0.467
+
 * `fBodyAccMeanFreqZ`
+
+         	Min.:  -0.520
+       		1st Qu.:  -0.036
+        	Median:   0.066
+          	Mean:   0.044
+       		3rd Qu.:   0.175
+          	Max.:   0.403
+
 * `fBodyAccJerkMeanX`
+
+          	Min.:  -0.995
+       		1st Qu.:  -0.983
+        	Median:  -0.813
+          	Mean:  -0.614
+       		3rd Qu.:  -0.282
+          	Max.:   0.474
+
 * `fBodyAccJerkMeanY`
+
+          	Min.:  -0.989
+       		1st Qu.:  -0.973
+        	Median:  -0.782
+          	Mean:  -0.588
+       		3rd Qu.:  -0.196
+          	Max.:   0.277
+
 * `fBodyAccJerkMeanZ`
+
+          	Min.:  -0.992
+       		1st Qu.:  -0.980
+        	Median:  -0.871
+          	Mean:  -0.714
+       		3rd Qu.:  -0.470
+          	Max.:   0.158
+
 * `fBodyAccJerkStdX`
+
+          	Min.:  -0.995
+       		1st Qu.:  -0.985
+        	Median:  -0.825
+          	Mean:  -0.612
+       		3rd Qu.:  -0.247
+          	Max.:   0.477
+
 * `fBodyAccJerkStdY`
+
+          	Min.:  -0.991
+       		1st Qu.:  -0.974
+        	Median:  -0.785
+          	Mean:  -0.571
+       		3rd Qu.:  -0.169
+          	Max.:   0.350
+
 * `fBodyAccJerkStdZ`
+
+          	Min.:  -0.993
+       		1st Qu.:  -0.984
+        	Median:  -0.895
+          	Mean:  -0.756
+       		3rd Qu.:  -0.544
+          	Max.:  -0.006
+
 * `fBodyAccJerkMeanFreqX`
+
+          	Min.:  -0.576
+       		1st Qu.:  -0.290
+        	Median:  -0.061
+          	Mean:  -0.069
+       		3rd Qu.:   0.177
+          	Max.:   0.331
+
 * `fBodyAccJerkMeanFreqY`
+
+          	Min.:  -0.602
+       		1st Qu.:  -0.398
+        	Median:  -0.232
+          	Mean:  -0.228
+       		3rd Qu.:  -0.047
+          	Max.:   0.196
+
 * `fBodyAccJerkMeanFreqZ`
+
+          	Min.:  -0.628
+       		1st Qu.:  -0.309
+        	Median:  -0.092
+          	Mean:  -0.138
+       		3rd Qu.:   0.039
+          	Max.:   0.230
+
 * `fBodyGyroMeanX`
+
+          	Min.:  -0.993
+       		1st Qu.:  -0.970
+        	Median:  -0.730
+          	Mean:  -0.637
+       		3rd Qu.:  -0.339
+          	Max.:   0.475
+
 * `fBodyGyroMeanY`
+
+          	Min.:  -0.994
+       		1st Qu.:  -0.970
+        	Median:  -0.814
+          	Mean:  -0.677
+       		3rd Qu.:  -0.446
+          	Max.:   0.329
+
 * `fBodyGyroMeanZ`
+
+          	Min.:  -0.986
+       		1st Qu.:  -0.962
+        	Median:  -0.791
+          	Mean:  -0.604
+       		3rd Qu.:  -0.264
+          	Max.:   0.492
+
 * `fBodyGyroStdX`
+
+          	Min.:  -0.995
+       		1st Qu.:  -0.975
+        	Median:  -0.809
+          	Mean:  -0.711
+       		3rd Qu.:  -0.481
+          	Max.:   0.197
+
 * `fBodyGyroStdY`
+
+          	Min.:  -0.994
+       		1st Qu.:  -0.960
+        	Median:  -0.796
+          	Mean:  -0.645
+       		3rd Qu.:  -0.415
+          	Max.:   0.646
+
 * `fBodyGyroStdZ`
+
+          	Min.:  -0.987
+       		1st Qu.:  -0.964
+        	Median:  -0.822
+          	Mean:  -0.658
+       		3rd Qu.:  -0.392
+          	Max.:   0.522
+
 * `fBodyGyroMeanFreqX`
+
+          	Min.:  -0.396
+       		1st Qu.:  -0.213
+        	Median:  -0.116
+          	Mean:  -0.105
+       		3rd Qu.:   0.003
+          Max.:   0.249
+
 * `fBodyGyroMeanFreqY`
+
+          	Min.:  -0.667
+       		1st Qu.:  -0.294
+        	Median:  -0.158
+          	Mean:  -0.167
+       		3rd Qu.:  -0.043
+          	Max.:   0.273
+
+
 * `fBodyGyroMeanFreqZ`
+
+          	Min.:  -0.507
+       		1st Qu.:  -0.155
+        	Median:  -0.051
+          	Mean:  -0.057
+       		3rd Qu.:   0.042
+          	Max.:   0.377
+
 * `fBodyAccMagMean`
+
+          	Min.:  -0.987
+       		1st Qu.:  -0.956
+        	Median:  -0.670
+          	Mean:  -0.536
+       		3rd Qu.:  -0.162
+          	Max.:   0.587
+
 * `fBodyAccMagStd`
+
+          	Min.:  -0.988
+       		1st Qu.:  -0.945
+        	Median:  -0.651
+          	Mean:  -0.621
+       		3rd Qu.:  -0.365
+          	Max.:   0.179
+
 * `fBodyAccMagMeanFreq`
+
+          	Min.:  -0.312
+       		1st Qu.:  -0.015
+        	Median:   0.081
+          	Mean:   0.076
+       		3rd Qu.:   0.174
+          	Max.:   0.436
+
 * `fBodyBodyAccJerkMagMean`
+
+          	Min.:  -0.994
+       		1st Qu.:  -0.977
+        	Median:  -0.794
+          	Mean:  -0.576
+       		3rd Qu.:  -0.187
+          	Max.:   0.538
+
 * `fBodyBodyAccJerkMagStd`
+
+          	Min.:  -0.994
+       		1st Qu.:  -0.975
+        	Median:  -0.813
+          	Mean:  -0.599
+       		3rd Qu.:  -0.267
+          	Max.:   0.316
+
 * `fBodyBodyAccJerkMagMeanFreq`
+
+          	Min.:  -0.125
+       		1st Qu.:   0.045
+        	Median:   0.172
+          	Mean:   0.163
+       		3rd Qu.:   0.276
+          	Max.:   0.488
+
 * `fBodyBodyGyroMagMean`
+
+          	Min.:  -0.987
+       		1st Qu.:  -0.962
+        	Median:  -0.766
+          	Mean:  -0.667
+       		3rd Qu.:  -0.409
+          	Max.:   0.204
+
 * `fBodyBodyGyroMagStd`
+
+          	Min.:  -0.982
+       		1st Qu.:  -0.949
+        	Median:  -0.773
+          	Mean:  -0.672
+       		3rd Qu.:  -0.428
+          	Max.:   0.237
+
 * `fBodyBodyGyroMagMeanFreq`
+
+          	Min.:  -0.457
+       		1st Qu.:  -0.170
+        	Median:  -0.054
+          	Mean:  -0.036
+       		3rd Qu.:   0.082
+          	Max.:   0.409
+
 * `fBodyBodyGyroJerkMagMean`
+
+          Min.:  -0.998
+       		1st Qu.:  -0.981
+        	Median:  -0.878
+          	Mean:  -0.756
+       		3rd Qu.:  -0.583
+          	Max.:   0.147
+
 * `fBodyBodyGyroJerkMagStd`
+
+          Min.:  -0.998
+       		1st Qu.:  -0.980
+        	Median:  -0.894
+          	Mean:  -0.771
+       		3rd Qu.:  -0.608
+          	Max.:   0.288
+
 * `fBodyBodyGyroJerkMagMeanFreq`
+
+          Min.:  -0.183
+       		1st Qu.:   0.054
+        	Median:   0.112
+          	Mean:   0.126
+       		3rd Qu.:   0.208
+          	Max.:   0.426
+
