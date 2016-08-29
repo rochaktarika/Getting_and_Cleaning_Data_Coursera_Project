@@ -6,7 +6,10 @@ This is the documentation on the variables used in the script in this project an
 * `activity_labels` : All the activities from the downloaded dataset
 * `features` : All the features from the downloaded dataset
 * `features_mean_std` and `features_mean_std_lbl` : ID and name of the features which has mean or std in the names
-* 
+* `df_train_values` , `df_train_activities` and `df_train_subjects` : Data(values , activities and subject) for only the required features for the train datasets
+* `df_test_values` , `df_test_activities` and `df_test_subjects` : Data(values , activities and subject) for only the required features for the test datasets
+* `df_train_test` : Consolidated test and train data of only the required features
+* `df_tidy` : Clean and tidy dataset
 
 ## Identifiers
 
